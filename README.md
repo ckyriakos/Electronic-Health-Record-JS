@@ -18,6 +18,8 @@ You are running the server.js for developement. Connect to localhost:3000 and yo
 Don't forget to provide the DATABASE_URL with your respected MongoDB configuration.
 
 
+
+#################################################################################
 TODO List:
 
 Implement login/register functions with passportjs
